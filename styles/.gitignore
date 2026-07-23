@@ -1,0 +1,17 @@
+build/
+build2/
+temp_cmake_test/
+.vscode/
+*.exe
+*.dll
+*.o
+*.obj
+*.db
+CMakeCache.txt
+CMakeFiles/
+buildlog.txt
+build2_debug.txt
+build2_configure.txt
+stdout.txt
+stderr.txt
+out.txt
