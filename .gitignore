@@ -1,7 +1,7 @@
 build/
 build2/
 temp_cmake_test/
-.vscode/
+.vscode/Move-Item .\styles\.gitignore .\.gitignore
 *.exe
 *.dll
 *.o

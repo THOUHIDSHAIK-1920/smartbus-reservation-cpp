@@ -1,2 +1,0 @@
-RUNNING 
-CWD=C:\Users\shaik\Documents\bus_reservation_cpp_dashboard\build 

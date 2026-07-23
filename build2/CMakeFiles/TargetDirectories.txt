@@ -1,9 +1,0 @@
-C:/Users/shaik/Documents/bus_reservation_cpp_dashboard/build2/CMakeFiles/SmartBusReservationSystem.dir
-C:/Users/shaik/Documents/bus_reservation_cpp_dashboard/build2/CMakeFiles/edit_cache.dir
-C:/Users/shaik/Documents/bus_reservation_cpp_dashboard/build2/CMakeFiles/rebuild_cache.dir
-C:/Users/shaik/Documents/bus_reservation_cpp_dashboard/build2/CMakeFiles/list_install_components.dir
-C:/Users/shaik/Documents/bus_reservation_cpp_dashboard/build2/CMakeFiles/install.dir
-C:/Users/shaik/Documents/bus_reservation_cpp_dashboard/build2/CMakeFiles/install/local.dir
-C:/Users/shaik/Documents/bus_reservation_cpp_dashboard/build2/CMakeFiles/install/strip.dir
-C:/Users/shaik/Documents/bus_reservation_cpp_dashboard/build2/CMakeFiles/SmartBusReservationSystem_autogen_timestamp_deps.dir
-C:/Users/shaik/Documents/bus_reservation_cpp_dashboard/build2/CMakeFiles/SmartBusReservationSystem_autogen.dir
